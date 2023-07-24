@@ -17,6 +17,35 @@
 
 ## Introduction
 
+Welcome to the Request for Comments (RFC) Repository of the Block Foundation!
+
+This repository is an essential part of our journey towards developing a transparent and collaborative foundation. It's where we host all our Requests for Comments (RFCs), documents that outline and describe proposed changes or additions to the Block Foundation's projects, procedures, or protocols.
+
+RFCs play a vital role in our development and decision-making process. They enable open discussion, collective decision-making, and community involvement. Each RFC provides a comprehensive view of the proposed changes, enabling anyone interested in the future direction of the Block Foundation to get involved and voice their opinions.
+
+We encourage contributions from anyone within our community, regardless of their technical knowledge or experience with the Block Foundation's work. Whether you're a veteran developer, an interested party, or someone new to blockchain technology and architecture, your perspectives are welcome and valuable.
+
+Each RFC has its own discussion thread where you can comment, ask questions, or express support or concerns. Before commenting, please make sure to read our guidelines and respect the opinions of others.
+
+We're looking forward to hearing your insights and ideas! Welcome to the collaborative journey towards the future of architecture and urban planning with the Block Foundation!
+
+
+---
+
+This repository is a dedicated platform for facilitating transparent and constructive discussions concerning potential changes, improvements, and enhancements to the Block Foundation's protocols, standards, and various initiatives.
+
+Our Request for Comments (RFC) repository is the main touchpoint where ideas transform into concrete plans, bolstered by inputs from our diverse community. It serves as a democratic arena to discuss, debate, and decide on the best path forward for our blockchain and smart-contract endeavors.
+
+Here, you can submit new RFCs, respond to existing ones, or simply get a comprehensive view of past and ongoing discussions. Your input is invaluable in shaping the future of the Block Foundation, and we highly encourage you to participate, irrespective of your technical background or expertise level.
+
+Take a moment to review the [RFC Template](https://github.com/block-foundation/rfc/blob/main/rfc_template.md) and [RFC Process Guide](https://github.com/block-foundation/rfc/blob/main/rfc_process.md) to understand the format of an RFC and the process we follow.
+
+Our [Code of Conduct](https://github.com/block-foundation/rfc/blob/main/CODE_OF_CONDUCT.md) outlines our expectations for participation within the Block Foundation community, as well as the steps for reporting unacceptable behavior. We ask that you follow these guidelines to ensure that our community remains a respectful and welcoming space for everyone.
+
+Feel free to raise an issue or pull request if you have a proposal that you believe could improve the Block Foundation's projects and initiatives. We look forward to your contributions and the continued growth of the Block Foundation!
+
+Let's build a more equitable, decentralized future together!
+
 
 ## Development
 

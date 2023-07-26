@@ -15,9 +15,9 @@
 
 ---
 
-## Introduction
+**Welcome to the Request for Comments (RFC) Repository of the Block Foundation!**
 
-Welcome to the Request for Comments (RFC) Repository of the Block Foundation!
+## Introduction
 
 This repository is an essential part of our journey towards developing a transparent and collaborative foundation. It's where we host all our Requests for Comments (RFCs), documents that outline and describe proposed changes or additions to the Block Foundation's projects, procedures, or protocols.
 
@@ -28,7 +28,6 @@ We encourage contributions from anyone within our community, regardless of their
 Each RFC has its own discussion thread where you can comment, ask questions, or express support or concerns. Before commenting, please make sure to read our guidelines and respect the opinions of others.
 
 We're looking forward to hearing your insights and ideas! Welcome to the collaborative journey towards the future of architecture and urban planning with the Block Foundation!
-
 
 ---
 
@@ -45,6 +44,45 @@ Our [Code of Conduct](https://github.com/block-foundation/rfc/blob/main/CODE_OF_
 Feel free to raise an issue or pull request if you have a proposal that you believe could improve the Block Foundation's projects and initiatives. We look forward to your contributions and the continued growth of the Block Foundation!
 
 Let's build a more equitable, decentralized future together!
+
+<!-- 
+
+---
+
+## Frequently Asked Questions
+
+To help new community members get acquainted with the RFC process and our platform, we've compiled a list of Frequently Asked Questions (FAQs). Please visit our [FAQ page](https://github.com/block-foundation/rfc/blob/main/FAQ.md) for more information.
+
+---
+
+## Community
+
+The Block Foundation community is a vibrant and welcoming space for individuals interested in contributing to and learning about blockchain technology and architecture. We regularly organize events, workshops, and webinars for our members. To get involved, visit our [Community Page](https://github.com/block-foundation/community).
+
+---
+
+## Resources
+
+To assist you in understanding our projects, we have provided several resources, including documentation, whitepapers, and technical guides. You can find them in our [Resources section](https://github.com/block-foundation/resources).
+
+---
+
+## Project Roadmap
+
+Our Project Roadmap is a dynamic and visual documentation of the strategic plan that outlines the goals of our projects and what we aim to achieve in the future. Check out our [Project Roadmap](https://github.com/block-foundation/rfc/blob/main/ROADMAP.md) to understand our vision better.
+
+---
+
+## Contact
+
+For any queries, suggestions, or concerns that you would prefer to communicate directly, please contact us at [contact@blockfoundation.io](mailto:contact@blockfoundation.io). We're always happy to hear from you and will endeavor to respond promptly.
+
+---
+
+## Acknowledgements
+
+We wish to express our gratitude to all our community members, contributors, and partners who have been instrumental in the growth and success of the Block Foundation. Your efforts, support, and engagement are greatly appreciated.
+ -->
 
 
 ## Development
